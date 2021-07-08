@@ -6,6 +6,8 @@
  
   ### 用于下载`CALC.jar`
  
-    在 MASTER 中你可以找到这个文件并下载它或者直接[点击这里](https://github.com/wanghao221/Calculator/blob/master/CALC.jar)
+在 MASTER 中你可以找到这个文件并下载它或者直接[点击这里](https://github.com/wanghao221/Calculator/blob/master/CALC.jar)
     
-    教程：https://haiyong.blog.csdn.net/article/details/118576545
+    
+    
+教程：https://haiyong.blog.csdn.net/article/details/118576545
