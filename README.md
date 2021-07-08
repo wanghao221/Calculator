@@ -1,9 +1,9 @@
-# Basic-Calculator
+# 基本计算器
 
-Here my simple calculator using JAVA AWT 
+这是我使用 JAVA AWT 的简单计算器
  
- I have also created an **_executable JAR FILE_** which will run  just by **double clicking**  on every JAVA platform
+  我还创建了一个 **_executable JAR FILE_** 它将在每个 JAVA 平台上通过 **双击** 运行
  
- ### FOR DOWNLOADING `CALC.jar`  
+  ### 用于下载`CALC.jar`
  
-   IN MASTER you can find this file and download it or directly [`click here`](https://github.com/Rohit570git-hub/Basic-Calculator/blob/master/CALC.jar)
+    在 MASTER 中你可以找到这个文件并下载它或者直接[`点击这里`](https://github.com/wanghao221/Calculator/blob/master/CALC.jar)
