@@ -1,5 +1,7 @@
 # 基本计算器
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210708170843775.png)
+
 这是我使用 JAVA AWT 的简单计算器
  
   我还创建了一个 **_executable JAR FILE_** 它将在每个 JAVA 平台上通过 **双击** 运行
